@@ -1,0 +1,9 @@
+---
+title: My Kaggle Submissiom
+author: Kelton
+date: '2018-06-18'
+slug: my-kaggle-submissiom
+categories: []
+tags: []
+---
+Creating a good submission for Home Credit Default Risk on Kaggle was rather a challenge as I was unable to install the caret R package, so my model options were rather limited. As such, I went with a simple generalized linear model (GLM) in to predict whether one would default on their loan or not. The parameters I used to help predict were amount of credit, amount of annuity, amount of goods price, count of children and days employed. All the parameters had P values less than 0.001, which boded well for my model. In actuality, my modeled checked in just under .65; clearly the glm model had its limitations.

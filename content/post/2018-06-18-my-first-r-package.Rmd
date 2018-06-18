@@ -1,0 +1,9 @@
+---
+title: My First R Package
+author: Kelton
+date: '2018-06-18'
+slug: my-first-r-package
+categories: []
+tags: []
+---
+For the iX Week 2 project, Will Shuhda and I created a R Package. The premise of our Package was to find the prime numbers from 1 to 1000. After considerable thought, we developed the a function which would return boolean value of true if the number was prime and false if it was not prime. After we pushed our package to R, we successfully had created our “Prime_Number” R Package. 

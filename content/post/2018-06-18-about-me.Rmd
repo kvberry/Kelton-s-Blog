@@ -1,0 +1,9 @@
+---
+title: About Me
+author: Kelton
+date: '2018-06-18'
+slug: about-me
+categories: []
+tags: []
+---
+My name is Kelton Berry and I am an 19-year old aspiring Data Scientist from Washington, DC. I’m currently creating this from Cape Town, South Africa as part of the iXperience Data Science Program. Back in the States, I am rising Sophomore at the College of William and Mary, studying Data Science with a minor in Economics. Some of my interests include cooking, sports and 3-D printing.
